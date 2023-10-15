@@ -115,7 +115,7 @@
   <distributionManagement>
     <repository>
       <id>ossrh</id>
-      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+      <url>https://oss.sonatype.org/service/local/staging/deploy/maven3/</url>
     </repository>
     <snapshotRepository>
       <id>ossrh</id>
