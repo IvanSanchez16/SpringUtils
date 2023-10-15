@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.ivansanchez16.repositories","l":"DynamicRepository"},{"p":"io.github.ivansanchez16","l":"MainApplication"},{"p":"io.github.ivansanchez16.repositories","l":"PageQuery"}];updateSearchResults();

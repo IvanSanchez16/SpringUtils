@@ -1,0 +1,56 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/ivanh/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/ivanh/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'E:/Dev/Java/SpringUtils/src/main/java;E:/Dev/Java/SpringUtils/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/Dev/Java/SpringUtils/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'spring-utils 0.1.0 API'
+-use
+-version
+-windowtitle
+'spring-utils 0.1.0 API'
+io.github.ivansanchez16
+io.github.ivansanchez16.repositories
+'E:/Dev/Java/SpringUtils/src/main/java/io/github/ivansanchez16/MainApplication.java'
+'E:/Dev/Java/SpringUtils/src/main/java/io/github/ivansanchez16/repositories/DynamicQueryUtil.java'
+'E:/Dev/Java/SpringUtils/src/main/java/io/github/ivansanchez16/repositories/DynamicRepository.java'
+'E:/Dev/Java/SpringUtils/src/main/java/io/github/ivansanchez16/repositories/DynamicRepositoryImpl.java'
+'E:/Dev/Java/SpringUtils/src/main/java/io/github/ivansanchez16/repositories/PageQuery.java'
+C:\Users\ivanh\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1694383965463
+C:\Users\ivanh\.m2\repository\org\projectlombok\lombok\1.18.30\lombok-1.18.30.jar = 1697345040621
+E:\Dev\Java\SpringUtils\src\main\java = 1697348619504
+E:\Dev\Java\SpringUtils\target\generated-sources\annotations = 1697407204993
+E:\Dev\Java\SpringUtils\target\apidocs\allclasses-index.html = 1697407208326
+E:\Dev\Java\SpringUtils\target\apidocs\allpackages-index.html = 1697407208328
+E:\Dev\Java\SpringUtils\target\apidocs\copy.svg = 1697407208355
+E:\Dev\Java\SpringUtils\target\apidocs\element-list = 1697407208267
+E:\Dev\Java\SpringUtils\target\apidocs\help-doc.html = 1697407208350
+E:\Dev\Java\SpringUtils\target\apidocs\index-all.html = 1697407208344
+E:\Dev\Java\SpringUtils\target\apidocs\index.html = 1697407208316
+E:\Dev\Java\SpringUtils\target\apidocs\jquery-ui.overrides.css = 1697407208384
+E:\Dev\Java\SpringUtils\target\apidocs\member-search-index.js = 1697407208333
+E:\Dev\Java\SpringUtils\target\apidocs\module-search-index.js = 1697407208330
+E:\Dev\Java\SpringUtils\target\apidocs\overview-summary.html = 1697407208345
+E:\Dev\Java\SpringUtils\target\apidocs\overview-tree.html = 1697407208313
+E:\Dev\Java\SpringUtils\target\apidocs\package-search-index.js = 1697407208331
+E:\Dev\Java\SpringUtils\target\apidocs\script.js = 1697407208353
+E:\Dev\Java\SpringUtils\target\apidocs\search.js = 1697407208357
+E:\Dev\Java\SpringUtils\target\apidocs\stylesheet.css = 1697407208352
+E:\Dev\Java\SpringUtils\target\apidocs\tag-search-index.js = 1697407208334
+E:\Dev\Java\SpringUtils\target\apidocs\type-search-index.js = 1697407208332
