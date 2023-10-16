@@ -1,2 +1,2 @@
 # SpringUtils
-Base utility classes to make an spring service
+Utils classes to make a spring service
